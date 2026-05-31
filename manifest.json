@@ -1,0 +1,16 @@
+{
+  "name": "Довідник приймальної комісії ДДАЕУ",
+  "short_name": "Довідник ПК",
+  "description": "Матеріали приймальної комісії ДДАЕУ — Вступна кампанія 2026",
+  "lang": "uk",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#F0AA33",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
